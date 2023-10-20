@@ -1,6 +1,6 @@
 # Yo this is NguyenTran!!
 # 💫 About Me:
-I'm a shy coder but nice to meet you<br>Hope this will help us know 'bout each other<br>
+Hope this will help us know 'bout each other<br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif">
 
 ## 🌐 Socials:
