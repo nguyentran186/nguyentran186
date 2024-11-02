@@ -1,4 +1,3 @@
-# Yo this is NguyenTran!!
 # 💫 About Me:
 Hope this will help us know 'bout each other<br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif">
